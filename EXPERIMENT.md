@@ -24,6 +24,10 @@ Solve resiliency of online commerce, p2p site discoverability, and category mana
   <img width="600" height="500" src="collective_commerce.png">
 </p>
 
+Advantages: Main cost of most ecommerce solutions is hosting (to serve), advertisements (to discover), and aditional tools / templates. The first 2 costs are amortized under a collective model with shared infrastructure, and the latter creates an opportunity for designers and developers to build for a stake in a business (via crypto).
+
+Cons: Can be slow. Peers share ip addresses (can use VPNs)
+
 ## Inspiration
 
 ### Webring 
