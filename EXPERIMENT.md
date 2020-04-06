@@ -8,6 +8,7 @@ Solve resiliency of online commerce, p2p site discoverability, and category mana
 * More businesses will look to online to join marketplaces where benefit & profit becomes embeded in the ecologies in which they are derived.
 * Units value collective autonomy. Serve local, discovered global (circumvent censorshop borders)
 * Community managed architecture for governance matching the optimal structure of easy joins / exits from collectives formed as [rhizomes](https://www.themantle.com/philosophy/rhizome-american-translation)
+* Site publishing can be ephemeral, cheap and experimental for rapid prototyping
 * A market need to empower commerce that is free from subscriptions, algorithms, flexibility, direct, and OSS tools that scales without external parties.
 
 ## Architecture
