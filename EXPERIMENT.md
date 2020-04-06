@@ -56,9 +56,9 @@ Custom narrative crafting and experience construction roots much of the possible
 Ephemeral products, creating culture from products up, & crypto based.
 
 ## User Use case
-Supplier: As a supplier, I can signal to a collective I have a certain product in stock with a certain fixed or dynamic price. (See [ourZORA](https://twitter.com/ourZORA))
-Developer: As develop, I can integrate a product feed on a personal, or, other website with javascript.
-Marketer: As a marketer, I can curate a brande based on a certain collectives shared feed structure of products.
+* Supplier: As a supplier, I can signal to a collective I have a certain product in stock with a certain fixed or dynamic price, while sharing exposure via product feeds. (See [ourZORA](https://twitter.com/ourZORA))
+* Developer: As a developer, I can integrate a product feed on a personal site, or, other website with pure javascript.
+* Marketer: As a marketer, I can curate and categorized a brand based on a certain collectives' feed of products.
 
 ## Technologies
 - [p2p gateway](https://github.com/garbados/dat-gateway)
@@ -72,3 +72,4 @@ Next Steps
 - cross site product recommendations?
 - chainlink experimentation
 - enigma node hosting
+- export from shopify
