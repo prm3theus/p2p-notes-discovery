@@ -1,7 +1,7 @@
 # Collective Commerce : Rhizomal Edition
 
 **Problem**
-Solve resiliency of online commerce, p2p site discoverability, and category management of products in the form of easily documented and abstract tools to enable rhizomal collective formation as communities of online & local tribes form for economic survival
+Solve resiliency of online commerce, p2p site discoverability, and category management of products. This takes the form of easily documented and abstract tools to enable rhizomal collective formation as communities of online & local tribes form for economic survival
 
 **Motivators**
 * Commerce will become increasingly localized, p2p, and require trust-driven discovery to uphold values.
