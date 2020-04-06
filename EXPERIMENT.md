@@ -1,12 +1,14 @@
 # Collective Commerce : Rhizomal Edition
 
-Problem: Solve resiliency of online commerce, p2p site discoverability, and category management of products in the form of tools to enable rhizomal collective formation as communities of online & local tribes form for economic survival.
+**Problem**
+Solve resiliency of online commerce, p2p site discoverability, and category management of products in the form of easily documented and abstract tools to enable rhizomal collective formation as communities of online & local tribes form for economic survival
 
-* Commerce will become increasingly localized, p2p, and require value-driven discovery. 
+**Motivators**
+* Commerce will become increasingly localized, p2p, and require trust-driven discovery to uphold values.
 * More businesses will look to online to join marketplaces where benefit & profit becomes embeded in the ecologies in which they are derived.
-* Units value collective autonomy. Serve local, discovered global.
+* Units value collective autonomy. Serve local, discovered global (circumvent censorshop borders)
 * Community managed architecture for governance matching the optimal structure of easy joins / exits from collectives formed as [rhizomes](https://www.themantle.com/philosophy/rhizome-american-translation)
-* Actions that empower freedom, flexibility, direct, and one that scales without external parties.
+* A market need to empower commerce that is free from subscriptions, algorithms, flexibility, direct, and OSS tools that scales without external parties.
 
 ## Architecture
 
