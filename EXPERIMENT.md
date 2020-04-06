@@ -8,15 +8,15 @@
 
 ## Architecture
 
-Nature Model
+### Nature Architecture
 <p float="left">
-  <img width="400" height="300" src="rhizome.png">
-  <img width="400" height="300" src="sunflower.jpeg">
+  <img width="420" height="350" src="rhizome.png">
+  <img width="420" height="350" src="sunflower.jpeg">
 </p>
 
-Technical Architecture
+### Technical Architecture
 <p align="center">
-  <img width="400" height="300" src="collective_commerce.png">
+  <img width="600" height="500" src="collective_commerce.png">
 </p>
 
 ## Inspiration
