@@ -1,5 +1,7 @@
 # Collective Commerce : Rhizomal Edition
 
+Problem: Solve resiliency of online commerce, p2p site discoverability, and category management of products in the form of tools to enable rhizomal collective formation as communities of online & local tribes form for economic survival.
+
 * Commerce will become increasingly localized, p2p, and require value-driven discovery. 
 * More businesses will look to online to join marketplaces where benefit & profit becomes embeded in the ecologies in which they are derived.
 * Units value collective autonomy. Serve local, discovered global.
@@ -52,5 +54,6 @@ Custom narrative crafting and experience construction roots much of the possible
 Next Steps
 - create react app template starter
 - minimal design assets
+- cross site product recommendations?
 - chainlink experimentation
 - enigma node hosting
