@@ -8,3 +8,10 @@ First cited [here](https://twitter.com/tru1mprssn/status/1247734911278002177) by
 
 # Implementation
 Code for a work in progress can be found [here](https://github.com/prm3theus/cabal-desktop) using [cabal chat](http://cabal.chat)
+
+Ex.
+
+<p align="center">
+  <img width="600" height="500" src="cabal_shot.png">
+</p>
+
