@@ -11,7 +11,7 @@ Better 'about' for what chats are about.
 Possible statistics.
 
 ## Examples
-- [Ethereum Access Chats](https://github.com/okwme/eac-chat
+- [Ethereum Access Chats](https://github.com/okwme/eac-chat)
 - [Cabal](http://cabal.chat)
 
 ## UX/UI
