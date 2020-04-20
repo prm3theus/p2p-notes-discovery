@@ -1,4 +1,4 @@
-# Fee-based Chats
+# Fee-based Token Chats
 
 Entry to a chat is purchasable via an NFT. Mint a limited amount of NFTs per chat. Allow access only to that many. Identities must be mapped to an EOA address.
 
