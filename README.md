@@ -1,7 +1,7 @@
 # p2p-notes-discovery
 Place to document questions and unpack the onion of the p2p tech sphere
 
-Question: how to mix Ether On-Chain<->Off-chain Hypercore folks.
+Question: how to mix Ether On-Chain<->Off-chain Hypercore folks. Current Thinking: Some Art, Hack, or Both.
 
 ## Modelling Nature:
 * [Stateful Mycelium: ](https://nyuscholars.nyu.edu/en/publications/myconet-a-fungi-inspired-model-for-superpeer-based-peer-to-peer-o)
