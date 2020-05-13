@@ -18,6 +18,6 @@ Some research into futures for [collective-commerce](https://github.com/prm3theu
 - start with a V1 with no perpetualness
 - needs account / margin state of balances
 - 'makerApprove' + 'takerBuild' for: 1) approve + signature creation then 2) to be fullfilled via some taker in the future
-- can't perform `approve` on native ether. must use `WETH` or some other ERC20
+- can't perform `approve` on native ether. must use [`WETH`](https://weth.io/) or some other ERC20
 - could use a twitter bot to pull & post on a feed of futures
 
